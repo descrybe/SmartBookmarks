@@ -1,4 +1,5 @@
 (() => {
+    // youtube bookmarks logic
     let youtubeLeftControls, youtubePlayer;
     let currentVideo = "";
 
